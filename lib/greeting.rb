@@ -1,1 +1,2 @@
-# code the #greeting method here!
+# code the #greeting method here! gets.strip
+
